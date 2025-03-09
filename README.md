@@ -3,3 +3,4 @@ Repositório para atividades e projetos da disciplina de Programação Concorren
 
 - ### Aula 01 - Processos
 - ### Aula 02 - Threads
+- ### Aula 03 - Problemas e riscos
