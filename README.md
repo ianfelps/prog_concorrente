@@ -6,3 +6,4 @@ Repositório para atividades e projetos da disciplina de Programação Concorren
 - ### Aula 03 - Problemas e riscos
 - ### Aula 04 - Sockets
 - ### Aula 05 - Sincronização
+- ### Aula 06 - Speedup
