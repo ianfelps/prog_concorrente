@@ -7,3 +7,4 @@ Repositório para atividades e projetos da disciplina de Programação Concorren
 - ### Aula 04 - Sockets
 - ### Aula 05 - Sincronização
 - ### Aula 06 - Speedup
+- ### Aula 07 - Computação distribuída
